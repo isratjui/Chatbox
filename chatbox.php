@@ -2,7 +2,7 @@
 <?php
 	//Create Select Query
 	$query = "SELECT * FROM chats ORDER BY id DESC";
-	$shouts = mysqli_query($con, $query);
+	$chats = mysqli_query($con, $query);
 ?>
 <!DOCTYPE html>
 <html>
