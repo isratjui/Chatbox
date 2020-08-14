@@ -14,7 +14,7 @@
 	<body>
 		<div id="container">
 			<header>
-				<h1>Chat IT! Chatbox</h1>
+				<h1>Chat it, Chatbox</h1>
 			</header>
 			<div id="chats">
 				<ul>
@@ -31,7 +31,7 @@
 					<input type="text" name="user" placeholder="Enter Your Name" />
 					<input type="text" name="message" placeholder="Enter A Message" />
 					<br />
-					<input class="chat-btn" type="submit" name="submit" value="Chat It Out" />
+					<input class="chat-btn" type="submit" name="submit" value="Send it" />
 				</form>
 			</div>
 		</div>
